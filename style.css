@@ -1,0 +1,41 @@
+.google {
+    float: right;
+    
+}
+nav div {
+    display: inline-block;
+
+}
+nav div a {
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+a:hover {
+ text-decoration: underline;
+}
+
+img {
+    /* margin: 150px 500px 10px 500px ; */
+
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.center {
+    border: 3px solid red;
+/* background-color: cadetblue; */
+ clear: right;
+ text-align: center;
+ /* margin: 0 auto; */
+ /* width: 25%; */
+ margin-top:80px ;
+}
+
+* {
+    border: 1px solid green;
+}
+
